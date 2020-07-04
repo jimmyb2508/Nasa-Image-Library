@@ -6,6 +6,8 @@
 
 👩‍🚀 Images retrieved from NASAs free images API
 
+You can view a deployed version of the app by visiting: https://nasa-image-library.vercel.app/ 
+
 ## Install
 
 ```
